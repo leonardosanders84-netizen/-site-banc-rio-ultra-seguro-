@@ -1,0 +1,8 @@
+.chave_site
+dados_site_seguro.bin
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+*.log
